@@ -48,8 +48,15 @@ a.   KVL:
 ![WhatsApp Image 2025-10-19 at 11 55 34](https://github.com/user-attachments/assets/02128c22-404b-47a0-b623-00dd5e7d54a6)
 
 
+<img width="1284" height="534" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/09214821-d3a1-48cc-a9ab-550cd6855043" />
+
+
 b.  KCL:
  ![WhatsApp Image 2025-10-19 at 11 55 35 (1)](https://github.com/user-attachments/assets/6580a654-42e5-4118-ae1e-3ac217c1daee)
+
+
+ <img width="813" height="327" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/fba459b1-7111-4748-8521-a96e824f3b6e" />
+
 
 
 Calculation:
